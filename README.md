@@ -8,25 +8,25 @@ You must have node.js installed
 ### config.json setup
 ```json
 {
-	"account": {
-		"email": "your-email",
-		"pass": "*your-password"
-	},
-	"mc": {
-		"ip": "your-ip",
-		"port": 25565,
-		"version": "your-version"
-	},
-	"spammer": {
-		"spamFileFolder": "spam_files",
-		"logsFolder": "logs",
-		"delay": 300,
-		"limit": 72,
-		"spamOnJoin": true,
-		"disconnectThreshold": 15,
-		"randomness": 5000,
-		"maxLogFiles": 10
-	}
+     "account": {
+          "email": "your-email",
+          "pass": "*your-password"
+     },
+     "mc": {
+          "ip": "your-ip",
+          "port": 25565,
+          "version": "your-version"
+     },
+     "spammer": {
+          "spamFileFolder": "spam_files",
+          "logsFolder": "logs",
+          "delay": 300,
+          "limit": 72,
+          "spamOnJoin": true,
+          "disconnectThreshold": 15,
+          "randomness": 5000,
+          "maxLogFiles": 10
+     }
 }
 ```
 #### Account
