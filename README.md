@@ -1,5 +1,6 @@
 # McSpammer
 Utility to spam a server with predefined messages without opening the game.
+
 *Note: feel free to open issues and pull requests, but the project will unlikely recieve any updates from myself*
 
 ## Usage
